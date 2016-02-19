@@ -1,0 +1,9 @@
+E:\C#\贪吃蛇\贪吃蛇\bin\Debug\贪吃蛇.exe
+E:\C#\贪吃蛇\贪吃蛇\bin\Debug\贪吃蛇.pdb
+E:\C#\贪吃蛇\贪吃蛇\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#\贪吃蛇\贪吃蛇\obj\x86\Debug\贪吃蛇.Properties.Resources.resources
+E:\C#\贪吃蛇\贪吃蛇\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#\贪吃蛇\贪吃蛇\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#\贪吃蛇\贪吃蛇\obj\x86\Debug\贪吃蛇.exe
+E:\C#\贪吃蛇\贪吃蛇\obj\x86\Debug\贪吃蛇.pdb
+E:\C#\贪吃蛇\贪吃蛇\obj\x86\Debug\贪吃蛇.Form1.resources
